@@ -1,0 +1,7 @@
+Strategy,CAGR,Volatility,Sharpe,Max DD
+Time Series,2.3%,3.1%,0.16,-4.7%
+Cross Sectional,2.4%,3.5%,0.16,-5.5%
+Risk Parity,6.6%,9.8%,0.47,-20.7%
+Ensemble,11.6%,10.3%,0.74,-19.3%
+S&P 500,11.3%,16.0%,0.58,-34.9%
+US 10Y,6.8%,13.8%,0.34,-29.7%
